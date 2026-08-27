@@ -134,23 +134,23 @@ Jenkins automates the application build, Docker image creation, and Kubernetes d
 
 ### 🏠 Home Page
 
-![Home Page](<Screenshot 2026-08-11 160401.png>)
+![Home Page](<Home Page.png>)
 
 ### 📚 Book Listing
 
-![Book Listing](<Screenshot 2026-08-11 160420.png>)
+![Book Listing](<Book Listing.png>)
 
 ### 📖 order Details
 
-![order Details](<Screenshot 2026-08-11 160437.png>)
+![order Details](<order Details.png>)
 
 ### 🐳 Docker Containers
 
-![Docker Containers](<Screenshot 2026-08-11 143021.png>)
+![Docker Containers](<Docker Containers.png>)
 
 ### ☸️ Kubernetes Deployment
 
-![Kubernetes](<Screenshot 2026-08-11 151154.png>)
+![Kubernetes](Kubernetes.png)
 
 ## 🎯 Project Objective
 
